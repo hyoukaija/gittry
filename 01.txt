@@ -1,2 +1,2 @@
 try to update
-Creating a new branch is quick & simple.
+merge branch
